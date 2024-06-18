@@ -19,4 +19,23 @@ Used language and libraries/packages: Python"
 
   ![WhatsApp Image 2024-06-18 at 09 56 41](https://github.com/CriistianEspinosa/Python-Project/assets/169914497/384eb1c0-29b2-407b-8ace-cc95d16577df)
 
+### Executing Python Script to Calculate Square Root via Terminal
+Preparation: Ensure Python is installed on your computer.
+
+Create the File:
+* Copy the Python code provided into a text editor.
+* Save the file with a .py extension, e.g., calculate_square_root.py.
+* Execute the Script via Terminal: Open Terminal:
+
+Unix/Linux: Use Applications/Utilities folder or Ctrl + Alt + T.
+macOS: Find in Applications/Utilities or Spotlight (Cmd + Space, "Terminal").
+Navigate to Directory:
+
+* Use cd to reach calculate_square_root.py, e.g., cd Desktop. Run the Script:
+
+* Command: python calculate_square_root.py. Enter Number:
+
+* Prompted to input a number and hit Enter. Result Display:
+
+* Output displays square root, handles negatives. This method ensures effective Python script execution from terminal, calculating square roots directly via command line.
 
