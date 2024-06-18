@@ -2,6 +2,9 @@
 ### Python Project
 Welcome to this program, this program calculates the square root of a number
 
+### Program Description
+
+The program allows the user to enter a number. Then check if the number is not negative. If the number is negative, informs the user that square roots of negative numbers are not defined. If the number is not negative, calculate the square root using the math.sqrt() function. Finally, it prints the calculated square root or an error message, depending on the number entered.
 
 
 * ### Screenshot of the program running:
