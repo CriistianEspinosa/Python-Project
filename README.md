@@ -8,7 +8,7 @@ The program allows the user to enter a number. Then check if the number is not n
 
 ### MEMBERS:
 
-Cristian Espinosa 
+Cristian Espinosa and Carlos Joel
 
 ### PROGRAM DISPLAY
   
